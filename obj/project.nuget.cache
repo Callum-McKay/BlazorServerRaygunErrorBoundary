@@ -1,8 +1,22 @@
 {
   "version": 2,
-  "dgSpecHash": "kh7h5svpw1svH9zUM8OvDdyyVYTuc41lcG38M13FhFG2y0rlhx60Qq5PEXKOjuDwluXII7NJs6/sVA+vzqfkmA==",
+  "dgSpecHash": "Hd9qgR8oQOLwRZaLz02zksYFkm0WTA5LqFWGRLF5hEjc6Tp95Ll0YrEZ8rO/owCwO/3LrOIX02dANa/QmgyuwQ==",
   "success": true,
   "projectFilePath": "D:\\ddev\\dotnet\\blazor server\\blazor server.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Callum\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Callum\\.nuget\\packages\\mindscape.raygun4net.aspnetcore\\6.6.6\\mindscape.raygun4net.aspnetcore.6.6.6.nupkg.sha512",
+    "C:\\Users\\Callum\\.nuget\\packages\\mindscape.raygun4net.netcore.common.signed\\6.5.3\\mindscape.raygun4net.netcore.common.signed.6.5.3.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.globalization\\4.3.0\\system.globalization.4.3.0.nupkg.sha512",
+    "C:\\Users\\Callum\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
+    "C:\\Users\\Callum\\.nuget\\packages\\system.reflection.primitives\\4.3.0\\system.reflection.primitives.4.3.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.resources.resourcemanager\\4.3.0\\system.resources.resourcemanager.4.3.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\Callum\\.nuget\\packages\\system.runtime.serialization.primitives\\4.3.0\\system.runtime.serialization.primitives.4.3.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512"
+  ],
   "logs": []
 }

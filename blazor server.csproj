@@ -7,4 +7,8 @@
     <RootNamespace>blazor_server</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Mindscape.Raygun4Net.AspNetCore" Version="6.6.6" />
+  </ItemGroup>
+
 </Project>

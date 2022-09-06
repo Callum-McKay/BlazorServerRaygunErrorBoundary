@@ -1,0 +1,30 @@
+D:\ddev\dotnet\blazor server\bin\Debug\net6.0\appsettings.Development.json
+D:\ddev\dotnet\blazor server\bin\Debug\net6.0\appsettings.json
+D:\ddev\dotnet\blazor server\bin\Debug\net6.0\blazor server.staticwebassets.runtime.json
+D:\ddev\dotnet\blazor server\bin\Debug\net6.0\blazor server.exe
+D:\ddev\dotnet\blazor server\bin\Debug\net6.0\blazor server.deps.json
+D:\ddev\dotnet\blazor server\bin\Debug\net6.0\blazor server.runtimeconfig.json
+D:\ddev\dotnet\blazor server\bin\Debug\net6.0\blazor server.dll
+D:\ddev\dotnet\blazor server\bin\Debug\net6.0\blazor server.pdb
+D:\ddev\dotnet\blazor server\bin\Debug\net6.0\Mindscape.Raygun4Net.AspNetCore.dll
+D:\ddev\dotnet\blazor server\bin\Debug\net6.0\Mindscape.Raygun4Net.NetCore.Common.dll
+D:\ddev\dotnet\blazor server\obj\Debug\net6.0\blazor server.csproj.AssemblyReference.cache
+D:\ddev\dotnet\blazor server\obj\Debug\net6.0\blazor server.GeneratedMSBuildEditorConfig.editorconfig
+D:\ddev\dotnet\blazor server\obj\Debug\net6.0\blazor server.AssemblyInfoInputs.cache
+D:\ddev\dotnet\blazor server\obj\Debug\net6.0\blazor server.AssemblyInfo.cs
+D:\ddev\dotnet\blazor server\obj\Debug\net6.0\blazor server.csproj.CoreCompileInputs.cache
+D:\ddev\dotnet\blazor server\obj\Debug\net6.0\blazor server.MvcApplicationPartsAssemblyInfo.cache
+D:\ddev\dotnet\blazor server\obj\Debug\net6.0\blazor server.RazorAssemblyInfo.cache
+D:\ddev\dotnet\blazor server\obj\Debug\net6.0\blazor server.RazorAssemblyInfo.cs
+D:\ddev\dotnet\blazor server\obj\Debug\net6.0\staticwebassets.build.json
+D:\ddev\dotnet\blazor server\obj\Debug\net6.0\staticwebassets.development.json
+D:\ddev\dotnet\blazor server\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\ddev\dotnet\blazor server\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\ddev\dotnet\blazor server\obj\Debug\net6.0\scopedcss\bundle\blazor server.styles.css
+D:\ddev\dotnet\blazor server\obj\Debug\net6.0\scopedcss\projectbundle\blazor server.bundle.scp.css
+D:\ddev\dotnet\blazor server\obj\Debug\net6.0\blazor server.csproj.CopyComplete
+D:\ddev\dotnet\blazor server\obj\Debug\net6.0\blazor server.dll
+D:\ddev\dotnet\blazor server\obj\Debug\net6.0\refint\blazor server.dll
+D:\ddev\dotnet\blazor server\obj\Debug\net6.0\blazor server.pdb
+D:\ddev\dotnet\blazor server\obj\Debug\net6.0\blazor server.genruntimeconfig.cache
+D:\ddev\dotnet\blazor server\obj\Debug\net6.0\ref\blazor server.dll

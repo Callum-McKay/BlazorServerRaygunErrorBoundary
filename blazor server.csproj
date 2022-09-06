@@ -11,4 +11,8 @@
     <PackageReference Include="Mindscape.Raygun4Net.AspNetCore" Version="6.6.6" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="obj\Debug\net6.0" />
+  </ItemGroup>
+
 </Project>

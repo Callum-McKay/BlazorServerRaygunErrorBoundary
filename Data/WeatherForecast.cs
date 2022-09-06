@@ -1,3 +1,5 @@
+using System;
+
 namespace blazor_server.Data;
 
 public class WeatherForecast
